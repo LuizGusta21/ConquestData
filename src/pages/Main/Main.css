@@ -93,3 +93,9 @@
     font-size: 2.5rem;
   }
 }
+
+@media screen and (max-width: 450px) {
+  .home__text__titulo {
+    font-size: 2rem;
+  }
+}
