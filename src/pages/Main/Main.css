@@ -14,7 +14,7 @@
   left: 50%;
   transform: translate(-50%, -50%);
   max-width: 90rem;
-  width: 92%;
+  width: 100%;
 }
 
 .home__text__titulo {
