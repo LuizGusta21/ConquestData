@@ -13,8 +13,8 @@
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  max-width: 90rem;
-  width: 100%;
+  max-width: 95rem;
+  width: 92%;
 }
 
 .home__text__titulo {
